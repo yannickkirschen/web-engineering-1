@@ -1,0 +1,24 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+th {
+    padding: 10px 20px;
+}
+
+td {
+    padding: 5px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.right-align {
+    text-align: right;
+}
+
+.red-text {
+    color: red;
+}
