@@ -1,0 +1,8 @@
+h1, h2, h3, h4, h5, h6, p, a, li {
+    font-family: "Comic Sans MS", sans-serif;
+}
+
+.rounded {
+    width: 50%;
+    border-radius: 20%;
+}
